@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+.bg {
+  font-family: Lato, 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  background-image:  url("/img/layout/spider-background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
